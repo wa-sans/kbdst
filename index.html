@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<script>
+function createScript(arr)
+{
+  var script=document.createElement('script')
+  script.src=arr[0]+'?t='+String(Date.now());
+  script.onload=function()
+  {
+    if(arr.length>1)
+    {
+      createScript(arr.slice(1));
+    }
+  };
+  document.head.appendChild(script);
+}
+createScript(['./script/require.js','./script/app.js']);
+</script>
+<style>
+@font-face
+{
+  font-family:'exo-thin';
+  src:url('./font/EXO-THIN.TTF');
+}
+@font-face
+{
+  font-family:'SCDream2';
+  src:url('./font/SCDream2.otf');
+}
+</style>
+</head>
+<body style="background-color:#7f7f7f;overflow:hidden;margin:0px;">
+</body>
+</html>

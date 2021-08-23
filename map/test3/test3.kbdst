@@ -1,0 +1,30 @@
+bpm:120
+link:
+song:성능테스트
+artist:a
+offset:0
+songoffset:0
+volume:0
+ts:1
+
+0 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+0.1 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+0.2 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+0.3 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+0.4 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+0.5 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+0.6 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+0.7 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+0.8 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+0.9 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+1 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+1.1 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+1.2 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+1.3 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+1.4 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+1.5 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+1.6 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+1.7 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+1.8 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+1.9 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
+2 C("1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./")
